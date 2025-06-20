@@ -94,9 +94,9 @@
 
 
 <hr>
-<h3>Sami Alruhaily:</h3> 
+<h3>Sami Alruhili:</h3> 
 
 <h4>Role</h4>
 <ul>
-	<li>Front-end developer</li>
+	<li>Fullstack developer</li>
 </ul>
